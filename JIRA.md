@@ -1,0 +1,1 @@
+- [Kurs Jira od podstaw](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
