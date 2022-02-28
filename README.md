@@ -3,3 +3,4 @@
 - [DevTools](DEVTOOLS.md)
 - [TestLink](TESTLINK.md)
 - [Jira](JIRA.md)
+- [Git](GIT.md)
