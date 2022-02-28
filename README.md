@@ -4,3 +4,4 @@
 - [TestLink](TESTLINK.md)
 - [Jira](JIRA.md)
 - [Git](GIT.md)
+- [Postman](POSTMAN.md)
