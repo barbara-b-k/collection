@@ -5,3 +5,6 @@
 - [Jira](JIRA.md)
 - [Git](GIT.md)
 - [Postman](POSTMAN.md)
+- [MySQL Tutorial](https://www.w3schools.com/mysql/default.asp)
+- [Practical software testing course](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
