@@ -4,7 +4,7 @@
 
 - ### [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
-- ### [Fromatowanie tekstu w pliku README (.md format)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- ### [Formatowanie tekstu w pliku README (.md format)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
  
 
 
